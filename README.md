@@ -1,4 +1,4 @@
-talk
+### Talk to me.
 ====
 
-Feature requests and issues
+Give me your feature requests and issues.
